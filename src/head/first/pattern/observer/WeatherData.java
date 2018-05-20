@@ -1,10 +1,5 @@
 package head.first.pattern.observer;
 
-import head.first.pattern.observer.interfaces.Observer;
-import head.first.pattern.observer.interfaces.Subject;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Observable;
 
 public class WeatherData extends Observable {
