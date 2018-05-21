@@ -1,4 +1,4 @@
-package head.first.pattern.derocate;
+package headfirst.patterndesign.derocate;
 
 public abstract class Beverage {
 

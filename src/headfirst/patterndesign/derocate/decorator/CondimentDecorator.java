@@ -1,6 +1,6 @@
-package head.first.pattern.derocate.decorator;
+package headfirst.patterndesign.derocate.decorator;
 
-import head.first.pattern.derocate.Beverage;
+import headfirst.patterndesign.derocate.Beverage;
 
 public abstract class CondimentDecorator extends Beverage {
 

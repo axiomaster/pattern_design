@@ -1,6 +1,6 @@
-package head.first.pattern.observer;
+package headfirst.patterndesign.observer;
 
-import head.first.pattern.observer.interfaces.DisplayElement;
+import headfirst.patterndesign.observer.interfaces.DisplayElement;
 
 import java.util.Observable;
 import java.util.Observer;

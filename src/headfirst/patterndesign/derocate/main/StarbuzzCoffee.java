@@ -1,9 +1,9 @@
-package head.first.pattern.derocate.main;
+package headfirst.patterndesign.derocate.main;
 
-import head.first.pattern.derocate.Beverage;
-import head.first.pattern.derocate.DarkRoast;
-import head.first.pattern.derocate.Espresso;
-import head.first.pattern.derocate.decorator.Mocha;
+import headfirst.patterndesign.derocate.Beverage;
+import headfirst.patterndesign.derocate.DarkRoast;
+import headfirst.patterndesign.derocate.Espresso;
+import headfirst.patterndesign.derocate.decorator.Mocha;
 
 public class StarbuzzCoffee {
 
